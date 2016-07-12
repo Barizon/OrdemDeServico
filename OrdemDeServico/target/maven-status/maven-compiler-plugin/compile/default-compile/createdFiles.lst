@@ -1,0 +1,14 @@
+br/com/model/Setor.class
+br/com/model/OsItem.class
+br/com/model/Os.class
+br/com/model/Pessoa.class
+br/com/model/Usuario.class
+br/com/persistence/Transacional.class
+br/com/model/NivelAcesso.class
+br/com/model/Produto.class
+br/com/utils/Criptografia.class
+br/com/persistence/JpaUtil.class
+br/com/teste/Main.class
+br/com/model/Equipamento.class
+br/com/model/Prioridade.class
+br/com/persistence/TransactionInterceptor.class

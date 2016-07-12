@@ -1,0 +1,14 @@
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/Prioridade.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/Usuario.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/teste/Main.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/Equipamento.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/Pessoa.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/OsItem.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/Os.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/persistence/JpaUtil.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/Produto.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/Setor.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/persistence/Transacional.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/persistence/TransactionInterceptor.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/model/NivelAcesso.java
+/home/barizon/NetBeansProjects/OrdemDeServico/OrdemDeServico/src/main/java/br/com/utils/Criptografia.java
